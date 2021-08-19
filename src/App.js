@@ -12,9 +12,9 @@ function App() {
       <div className="App">
         <Header />
         <Switch>
-          <Route path="/" exact component={Greeting} />
-          <Route path="/form" component={Form} />
-          <Route path="/results" component={Results} />
+          <Route path="https://jacob52210.github.io/The_Confident_Broker/" exact component={Greeting} />
+          <Route path="https://jacob52210.github.io/The_Confident_Broker/form" component={Form} />
+          <Route path="https://jacob52210.github.io/The_Confident_Broker/results" component={Results} />
         </Switch>
         <Footer />
       </div>
