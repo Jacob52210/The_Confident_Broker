@@ -2,7 +2,7 @@
   "name": "the_confident_broker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jacob52210.github.io/The_Confident_Broker/",
+  "homepage": "https://jacob52210.github.io/The_Confident_Broker/the_confident_broker/build/index.html",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
