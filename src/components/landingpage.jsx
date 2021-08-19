@@ -7,7 +7,7 @@ function Greeting() {
       <h2 className="greeting">Welcome!</h2>
       <br />
       <h3 className="greeting">Please enter the applicant's information on the following page.</h3>
-      <a className="btn" href="/#/form">Continue</a>
+      <a className="btn" href="The_Confident_Broker/#/form">Continue</a>
     </div>
   );
 }
