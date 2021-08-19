@@ -1,5 +1,5 @@
 # The Confident Broker
-*By: Efrain Montalvo, Amanda, and Jacob Flora*
+*By: Efrain Montalvo, Amanda Kingsly, and Jacob Flora*
 ## Description
 *This is a single page application that allows brokers to determine business owner eligibility for business loans instantly without asking for large amounts of documentation from the business owner. This will speed up the proccess and save money on underwriter fees.* 
 #### Hosted [HERE]( <paste hosted url here> "The Confident Broker").
