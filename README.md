@@ -2,7 +2,7 @@
 *By: Efrain Montalvo, Amanda Kingsly, and Jacob Flora*
 ## Description
 *This is a single page application that allows brokers to determine business owner eligibility for business loans instantly without asking for large amounts of documentation from the business owner. This will speed up the proccess and save money on underwriter fees.* 
-#### Hosted [HERE]( "https://jacob52210.github.io/The_Confident_Broker/" "The Confident Broker").
+#### Hosted [HERE]( https://jacob52210.github.io/The_Confident_Broker/ "The Confident Broker").
 ___
 ## User Stories
 1. *As a Broker, I want to screen business owners instantly for those that are qualified so that I can forword only the qualified files to the Lender.*
