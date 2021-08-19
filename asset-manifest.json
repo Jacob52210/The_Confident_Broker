@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/The_Confident_Broker/static/css/main.8ea2a045.chunk.css",
-    "main.js": "/The_Confident_Broker/static/js/main.f11983c1.chunk.js",
-    "main.js.map": "/The_Confident_Broker/static/js/main.f11983c1.chunk.js.map",
+    "main.js": "/The_Confident_Broker/static/js/main.32f9e576.chunk.js",
+    "main.js.map": "/The_Confident_Broker/static/js/main.32f9e576.chunk.js.map",
     "runtime-main.js": "/The_Confident_Broker/static/js/runtime-main.a85dcbe7.js",
     "runtime-main.js.map": "/The_Confident_Broker/static/js/runtime-main.a85dcbe7.js.map",
     "static/js/2.d3d4bf7d.chunk.js": "/The_Confident_Broker/static/js/2.d3d4bf7d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a85dcbe7.js",
     "static/js/2.d3d4bf7d.chunk.js",
     "static/css/main.8ea2a045.chunk.css",
-    "static/js/main.f11983c1.chunk.js"
+    "static/js/main.32f9e576.chunk.js"
   ]
 }
