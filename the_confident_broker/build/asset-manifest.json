@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/The_Confident_Broker/static/css/main.8ea2a045.chunk.css",
+    "main.js": "/The_Confident_Broker/static/js/main.f5d35426.chunk.js",
+    "main.js.map": "/The_Confident_Broker/static/js/main.f5d35426.chunk.js.map",
+    "runtime-main.js": "/The_Confident_Broker/static/js/runtime-main.a85dcbe7.js",
+    "runtime-main.js.map": "/The_Confident_Broker/static/js/runtime-main.a85dcbe7.js.map",
+    "static/js/2.1b2d7569.chunk.js": "/The_Confident_Broker/static/js/2.1b2d7569.chunk.js",
+    "static/js/2.1b2d7569.chunk.js.map": "/The_Confident_Broker/static/js/2.1b2d7569.chunk.js.map",
+    "static/js/3.b5714463.chunk.js": "/The_Confident_Broker/static/js/3.b5714463.chunk.js",
+    "static/js/3.b5714463.chunk.js.map": "/The_Confident_Broker/static/js/3.b5714463.chunk.js.map",
+    "index.html": "/The_Confident_Broker/index.html",
+    "static/css/main.8ea2a045.chunk.css.map": "/The_Confident_Broker/static/css/main.8ea2a045.chunk.css.map",
+    "static/js/2.1b2d7569.chunk.js.LICENSE.txt": "/The_Confident_Broker/static/js/2.1b2d7569.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a85dcbe7.js",
+    "static/js/2.1b2d7569.chunk.js",
+    "static/css/main.8ea2a045.chunk.css",
+    "static/js/main.f5d35426.chunk.js"
+  ]
+}
