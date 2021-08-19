@@ -1,0 +1,24 @@
+{
+  "name": "The_Confident_Broker",
+  "version": "1.0.0",
+  "description": "*By: Efrain Montalvo, Amanda, and Jacob Flora*\r ## Description\r *This is a single page application that allows brokers to determine business owner eligibility for business loans instantly without asking for large amounts of documentation from the business owner. This will speed up the proccess and save money on underwriter fees.* \r #### Hosted [HERE]( <paste hosted url here> \"The Confident Broker\").\r ___\r ## User Stories\r 1. *As a Broker, I want to screen business owners instantly for those that are qualified so that I can forword only the qualified files to the Lender.*\r 2. *As a Lender, I want to see only qualified files so that I can better manage risk, offer better rates, and close more deals.*\r 3. *As a business owner, I want to apply for a business loan but I don't have a lot of free time to collect documentation, this app will save me a lot of time.*\r ___\r ## Technologies Used\r * HTML\r * CSS\r * JavaScript\r * React\r ___\r ## Future Improvements\r * We'd like to add user authentication. Have seperate log ins for business owners and brokers.\r * We'd like to add a database to store business owner results that can be accessed only by the brokers.\r * We'd like to convert the results to a PDF that we can download and email easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacob52210/The_Confident_Broker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jacob52210/The_Confident_Broker/issues"
+  },
+  "homepage": "https://github.com/Jacob52210/The_Confident_Broker#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
